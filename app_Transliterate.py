@@ -1,5 +1,5 @@
 # app.py
-
+import initialize
 import random
 import string
 from flask import Flask, render_template, request, redirect, url_for, session, flash, jsonify
